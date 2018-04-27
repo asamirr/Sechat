@@ -1,0 +1,16 @@
+{
+  "name": "Sechat",
+  "version": "1.0.0",
+  "node": "8.1.4",
+  "license": "MIT",
+  "author": "Ahmed Samir and Ibrahim Sherif",
+  "description": "End-to-end RSA-2048 encrypted chat application.",
+  "main": "app.js",
+  "engines": {
+    "node": ">=7.6"
+  },
+  "dependencies": {
+    "express": "4.15.3",
+    "socket.io": "2.0.3"
+  }
+}
